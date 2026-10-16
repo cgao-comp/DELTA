@@ -1,0 +1,5 @@
+{
+  "target_root": "/sdb/data_public/delta_dataset/MC-EIU/MC_EIU_Mandarin/target",
+  "total_cv": 10,
+  "feature_root": "/sdb/data_public/delta_dataset/MC-EIU/MC_EIU_Mandarin"
+}
